@@ -34,7 +34,7 @@ In order to determine whether height is a reliable indicator of weight, this stu
 ## Analysis of Correlation
 - To evaluate the relationship between height and weight, the Pearson correlation coefficient is computed.
 -The correlation trend is shown using a scatter plot with a regression line.
-![Code](Images/p3.png)
+- ![Code](Images/p.3.png)
 
 ## Findings & Conclusion
 - The correlation analysis suggests a strong positive relationship between height and weight.
