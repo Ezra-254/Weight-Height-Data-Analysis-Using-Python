@@ -29,7 +29,7 @@ In order to determine whether height is a reliable indicator of weight, this stu
 
 ## Importing Data(CSV File) to Python
 - Import required python libraries for analysis
-
+- ![Code](Images/p.4.png)
 - We  import data to Jupyter notebook
 -  ![Code](Images/p.1.png)
 
@@ -37,6 +37,7 @@ In order to determine whether height is a reliable indicator of weight, this stu
 - Histograms and box plots are used to analyze the dataset's distribution in order to comprehend its spread and spot any possible irregularities.
 -  ![Code](Images/p.2.png)
 - Simple statistical measures provide information about variability and central tendencies.
+-  ![Code](Images/p.5.png)
   
 
 ## Analysis of Correlation
