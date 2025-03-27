@@ -27,6 +27,12 @@ In order to determine whether height is a reliable indicator of weight, this stu
 ## Overview of Data
 - The dataset is made up of numerical records of people's weights (pounds) and heights (inches). Prior to analysis, the data is checked for outliers, missing values, and inconsistencies.
 
+## Importing Data(CSV File) to Python
+- Import required python libraries for analysis
+
+- We start by importing data to Jupyter notebook
+-  ![Code](Images/p.1.png)
+
 ## Analysis of Exploratory Data (EDA)
 - Histograms and box plots are used to analyze the dataset's distribution in order to comprehend its spread and spot any possible irregularities.
 -  ![Code](Images/p.2.png)
