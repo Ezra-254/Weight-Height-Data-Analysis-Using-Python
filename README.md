@@ -30,7 +30,7 @@ In order to determine whether height is a reliable indicator of weight, this stu
 ## Importing Data(CSV File) to Python
 - Import required python libraries for analysis
 
-- We start by importing data to Jupyter notebook
+- We  import data to Jupyter notebook
 -  ![Code](Images/p.1.png)
 
 ## Analysis of Exploratory Data (EDA)
